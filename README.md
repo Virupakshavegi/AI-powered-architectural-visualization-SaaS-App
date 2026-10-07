@@ -1,1 +1,1 @@
-Depployed url: https://archai-jonmp.puter.site/
+Deployed url: https://archai-jonmp.puter.site/
